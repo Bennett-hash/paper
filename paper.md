@@ -1,5 +1,5 @@
 # Title
-999 Simulations of biomass burning areosols over West Africa
+Aircraft measurements and simulations of biomass burning areosols over West Africa
 
 # Author
 Gerard Capes
